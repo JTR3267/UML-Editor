@@ -4,7 +4,7 @@ This is a project for an object-oriented programming course. It mainly uses Java
 
 ## Run it
 
-Run Main.java directly
+Run Main.java directly.
 
 ## Demo
 
